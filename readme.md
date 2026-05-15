@@ -7,7 +7,6 @@ Busca linear : É o algoritmo mais simples para localizar
 
 
 -----------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------
 
 Busca binaria : É um algoritmo eficiente para econtrar um
  elemento em uma lista que obrigatoriamnete deve estar 
@@ -15,3 +14,4 @@ Busca binaria : É um algoritmo eficiente para econtrar um
 
  Como Funciona : Ele vai dividindo a lista, dessa forma
  se torna mais rapida
+ -----------------------------------------------------------------------------------------------------------
